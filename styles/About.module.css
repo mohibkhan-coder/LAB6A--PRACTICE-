@@ -1,0 +1,21 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.profilePic {
+  border-radius: 50%;
+  margin-bottom: 1rem;
+}
+.skillsList {
+  list-style-type: none;
+  padding: 0;
+}
+.skillsList li {
+  display: inline-block;
+  background: #0d09fb;
+  margin: 5px;
+  padding: 10px 15px;
+  border-radius: 5px;
+}

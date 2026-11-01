@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "State Management Lab",
+    "description": "A React app demonstrating Redux and Context API integration.",
+    "github": "https://github.com/mohibkhan-coder/LAB4b--PRACTICE-"
+  },
+  {
+    "id": 2,
+    "title": "E-Commerce Mockup",
+    "description": "A responsive shopping cart built with Next.js and CSS modules.",
+    "github": "https://github.com/yourusername/ecommerce"
+  }
+]
